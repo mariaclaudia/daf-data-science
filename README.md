@@ -3,8 +3,8 @@
 This repository contains all the ongoing work on data science done by the DAF team.
 
 The repository is organized in topics. Each topics has a folder name that contains:
-1. data,
-2. notebooks and
+1. data
+2. notebooks 
 3. a environment.yml or a requirement.txt file with the python libraries used for the analysis.
 
 ## Work Organization

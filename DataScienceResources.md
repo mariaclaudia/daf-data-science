@@ -45,7 +45,6 @@ A collection of databases & frameworks that are helpful for data management and 
 * [matplotlib](http://matplotlib.org/) - Awesome plotting library for python.
 * [bokeh](http://bokeh.pydata.org/) - Interactive visualization library.
 * [seaborn](http://web.stanford.edu/~mwaskom/software/seaborn/) - Clean statistical data visualization library.
-
 * [d3](http://d3js.org/) - Mike Bostock's viz library - in js, steep learning curve but beautiful outcomes.
 
 

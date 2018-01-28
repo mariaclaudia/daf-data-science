@@ -18,7 +18,9 @@
 
 ### Data Pipeline, Processing & Exploratory Data Analysis
 
-* [Pandas](http://pandas.pydata.org/) - an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language
+* [Pandas](http://pandas.pydata.org/) - an open source, BSD-licensed library providing high-performance, easy-to-use data structures and 
+data analysis tools for the Python programming language
+  *[10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
 * [SciPy](http://www.scipy.org/) - Open-source software for mathematics, science and engineering.
 * [NumPy](http://www.numpy.org/) - Fundamental package for scientific computing with Python.
 * [scikit-learn](http://scikit-learn.org/stable/) is the most common library for Machine Learning and Data Science in Python.

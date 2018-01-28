@@ -33,15 +33,14 @@
 ### Databases/Frameworks
 
 A collection of databases & frameworks that are helpful for data management and are the industry standard.
+* [Hadoop](http://hadoop.apache.org) - Hadoop ecosystem.
+* [Spark](https://spark.apache.org/) - Lightening fast cluster computing.
 * [Apache Hive](https://hive.apache.org/) - Uses Hive Query Language (HQL) - similar to SQL for data at scale.
 * [ElasticSearch](http://www.elasticsearch.org/) - For scalable, fast text search/analysis.
-* [Hadoop - the definitive guide](http://ce.sysu.edu.cn/hope/UploadFiles/Education/2011/10/201110221516245419.pdf) - Hadoop ecosystem.
-* [Spark](https://spark.apache.org/) - Lightening fast cluster computing.
 
 
 ### Data Visualization
 
-* [ggplot](http://ggplot.yhathq.com/) - ggplot for python ported by the team at yhat.
 * [matplotlib](http://matplotlib.org/) - Awesome plotting library for python.
 * [bokeh](http://bokeh.pydata.org/) - Interactive visualization library.
 * [seaborn](http://web.stanford.edu/~mwaskom/software/seaborn/) - Clean statistical data visualization library.
@@ -61,7 +60,7 @@ A collection of databases & frameworks that are helpful for data management and 
 * [Trello](https://trello.com) - Helping organize everything - great for project management.
 * [Github](https://github.com) - Clearly a great product - 'Build software better, together'.
 
-
+* [Git Tutorial](https://try.github.io/levels/1/challenges/1)
 
 
 

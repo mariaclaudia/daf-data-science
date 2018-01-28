@@ -3,18 +3,18 @@
 
 ## Table Of Contents
  
-  * [Data Pipeline, Processing & Exploratory Data Analysis](#data-pipeline--tools)
+  * [Data Pipeline, Processing, Exploratory Data Analysis](#data-pipeline-processing-exploratory-data-analysis)
   * [Data Acquisition](#data-acquisition)
-  * [Databases/Frameworks](#databases-frameworks)
+  * [Databases, Frameworks](#databases-frameworks)
   * [Data Visualization](#data-visualization)
-  * [Data Science Conferences](#data-Science-conferences)
-  * [Team Communication & Business Tools](#team-communication--business-tools)  
+  * [Data Science Conferences](#data-science-conferences)
+  * [Extra and tools](#extra-and-tools)  
   
 ### Jupyter Notebook
 
 [Jupyter Notebook](https://jupyter.org/) 
 
-### Data Pipeline, Processing & Exploratory Data Analysis
+### Data Pipeline, Processing, Exploratory Data Analysis
 
 * [Pandas](http://pandas.pydata.org/) - an open source, BSD-licensed library providing high-performance, easy-to-use data structures and 
 data analysis tools for the Python programming language
@@ -30,7 +30,7 @@ data analysis tools for the Python programming language
 * [Requests](http://docs.python-requests.org/en/latest/) - HTTP for Humans - python library that makes working with http and api's more effortless
 
 
-### Databases/Frameworks
+### Databases, Frameworks
 
 A collection of databases & frameworks that are helpful for data management and are the industry standard.
 * [Hadoop](http://hadoop.apache.org) - Hadoop ecosystem.
@@ -54,14 +54,14 @@ A collection of databases & frameworks that are helpful for data management and 
 * [PyData](http://pydata.org)
 
 
-### Team Communication &  Tools
+### Extra and Tools
 
 * [Slack](https://slack.com) - Amazing team communication tool - abstracting away unnecessary e-mails.
 * [Trello](https://trello.com) - Helping organize everything - great for project management.
 * [Github](https://github.com) - Clearly a great product - 'Build software better, together'.
 
 * [Git Tutorial](https://try.github.io/levels/1/challenges/1)
-
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
 

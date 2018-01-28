@@ -3,13 +3,11 @@
 
 ## Table Of Contents
  
-  * [Data Pipeline & Tools](#data-pipeline--tools)
+  * [Data Pipeline, Processing & Exploratory Data Analysis](#data-pipeline--tools)
   * [Data Acquisition](#data-acquisition)
-  * [Processing & EDA](#processing--exploratory-data-analysis)
+  * [Databases/Frameworks](#databases-frameworks)
   * [Data Visualization](#data-visualization)
-  * [ipython Notebook Tutorials](#ipython-notebook-tutorials)
-  * [Data Sources](#data-sources)
-
+  * [Data Science Conferences](#data-Science-conferences)
   * [Team Communication & Business Tools](#team-communication--business-tools)  
   
 ### Jupyter Notebook

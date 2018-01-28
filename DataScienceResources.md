@@ -1,7 +1,7 @@
-## Data Science Resources
+# Data Science Resources
 
 
-# Table Of Contents
+## Table Of Contents
  
   * [Data Pipeline & Tools](#data-pipeline--tools)
   * [Data Acquisition](#data-acquisition)
@@ -16,7 +16,7 @@
 
 [Jupyter Notebook](https://jupyter.org/) 
 
-## Data Pipeline, Processing & Exploratory Data Analysis
+### Data Pipeline, Processing & Exploratory Data Analysis
 
 * [Pandas](http://pandas.pydata.org/) - an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language
 * [SciPy](http://www.scipy.org/) - Open-source software for mathematics, science and engineering.
@@ -34,7 +34,6 @@
 
 A collection of databases & frameworks that are helpful for data management and are the industry standard.
 * [Apache Hive](https://hive.apache.org/) - Uses Hive Query Language (HQL) - similar to SQL for data at scale.
-  * [Hive Cheatsheet](http://hortonworks.com/wp-content/uploads/downloads/2013/08/Hortonworks.CheatSheet.SQLtoHive.pdf) - Self Explanatory.
 * [ElasticSearch](http://www.elasticsearch.org/) - For scalable, fast text search/analysis.
 * [Hadoop - the definitive guide](http://ce.sysu.edu.cn/hope/UploadFiles/Education/2011/10/201110221516245419.pdf) - Hadoop ecosystem.
 * [Spark](https://spark.apache.org/) - Lightening fast cluster computing.
